@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "de.m-e-v.schule.lernportal"
         versionCode = "2016"
-        version   = "0.2.0">
+        version   = "0.3.0">
     <name>MEV Lernportal</name>
 
     <description>
