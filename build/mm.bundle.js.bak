@@ -31763,7 +31763,6 @@ angular.module('mm.core')
     "siteurl" : "https://mevlernen.de/lernportal",
     "demo_sites": "",
     "gcmpn": "694767596569",
-		"notifications_enabled": true,
-    "customurlscheme": "moodlemobile"
+		"notifications_enabled": true
 }
 );
