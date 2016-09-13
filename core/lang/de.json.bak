@@ -285,7 +285,7 @@
     "errorinvalidresponse": "Ungültige Antwort. Wenden Sie sich an den Administrator, wenn der Fehler weiter auftritt.",
     "erroropenfilenoapp": "Fehler: Keine App zum Öffnen dieses Dateityps gefunden.",
     "erroropenfilenoextension": "Fehler: Die Datei hat keine Extension.",
-    "erroropenpopup": "Das Lernpaket wird nun geschlossen. Denken Sie ggf. an die Synchronisation, sofern Sie offline arbeiten, damit Ihre Ergebnisse im Lernportal gespeichert werden.",
+    "erroropenpopup": "Die Aktivität versucht, ein Popup zu öffnen. Popups werden von dieser App nicht unterstützt.",
     "help": "Hilfe",
     "hour": "Stunde",
     "hours": "Stunden",
