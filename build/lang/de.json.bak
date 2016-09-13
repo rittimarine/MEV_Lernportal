@@ -285,7 +285,7 @@
     "mm.core.errorinvalidresponse": "Ungültige Antwort. Wenden Sie sich an den Administrator, wenn der Fehler weiter auftritt.",
     "mm.core.erroropenfilenoapp": "Fehler: Keine App zum Öffnen dieses Dateityps gefunden.",
     "mm.core.erroropenfilenoextension": "Fehler: Die Datei hat keine Extension.",
-    "mm.core.erroropenpopup": "Sofern Sie offline arbeiten, denken Sie bitte an die Synchronisation, damit Ihre Ergebnisse im Lernportal gespeichert werden können. ",
+    "mm.core.erroropenpopup": "Die Aktivität versucht, ein Popup zu öffnen. Popups werden von dieser App nicht unterstützt.",
     "mm.core.help": "Hilfe",
     "mm.core.hour": "Stunde",
     "mm.core.hours": "Stunden",
